@@ -1,4 +1,4 @@
-# ☕ CoffeeSales Analytics Dashboard: Dashboard de Análisis de Ventas y Comportamiento de Consumo de Café ☕
+# ☕ CoffeeSales Analytics Dashboard: Tablero interactivo de Análisis de Ventas y Comportamiento de Consumo de Café ☕
 
 <p align="center">
   <b>📊 Un análisis interactivo y completo sobre el comportamiento de consumo de café, tendencias de ventas y patrones horarios.</b>

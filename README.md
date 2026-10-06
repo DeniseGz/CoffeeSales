@@ -5,11 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/DAX-00758F?style=for-the-badge&logo=microsoft&logoColor=white" alt="DAX">
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets">
-  <img src="https://img.shields.io/badge/Power%20Query-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Power Query">
-  <img src="https://img.shields.io/badge/Status-Completado-success?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/POWER%20BI-8D5B4C?style=flat&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAX-6E3C2E?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/GOOGLE%20SHEETS-5A3825?style=flat&logo=googlesheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/POWER%20QUERY-7B4B38?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-4E3629?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/COMPLETADO-A07855?style=flat&logoColor=white" />
 </p>
 
 ---

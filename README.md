@@ -51,4 +51,5 @@ Este dashboard está dividido en **3 páginas estratégicas** diseñadas para un
 * 🔄 **Power Query:** Aplicado en la fase de extracción, transformación y limpieza de datos (*ETL*) del `coffee_dataset`.
 * 📑 **Google Sheets:** Empleado en la gestión, almacenamiento y preprocesamiento de las fuentes de datos tabulares.
 
----
+
+*Designed and developed by DeniseGz © 2026*
